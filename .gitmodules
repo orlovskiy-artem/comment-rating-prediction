@@ -1,0 +1,3 @@
+[submodule "Ukrainian-Stopwords"]
+	path = Ukrainian-Stopwords
+	url = https://github.com/skupriienko/Ukrainian-Stopwords
